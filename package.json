@@ -1,0 +1,22 @@
+{
+  "name": "react-ueditor",
+  "version": "1.5",
+  "description": "ueditor component for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ueditor",
+    "react",
+    "富文本编辑器",
+    "百度编辑器"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuenshui/react-ueditor.git"
+  },
+  "author": "Mustang(于恩水)",
+  "license": "MIT",
+  "homepage": "https://github.com/yuenshui/react-ueditor"
+}
